@@ -1,0 +1,7 @@
+First extract BGI2010 zip file.
+Then open the folder and click on bgi.sln.
+This will open a project.
+Now in that project add "Project l191160 BGI.cpp".
+Then place all the images present in Images folder in the project folder.
+Place the data.txt file in the project folder.
+Then run the code.
